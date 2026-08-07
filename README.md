@@ -14,7 +14,7 @@ A credential-free Python case study in research discipline and operational safet
 - Preserved a failed 24-hour reliability run, corrected the instrumentation, and passed nine unchanged thresholds on the next run.
 - Published an offline five-scenario demo, 15 regression tests, a deliberate control-bypass test, and a bidirectional SHA-256 manifest.
 
-[Run the demo](https://github.com/judasxo/fail-closed-trading-system#try-the-synthetic-demo) | [Read the architecture](https://github.com/judasxo/fail-closed-trading-system/blob/main/docs/ARCHITECTURE.md) | [One-page case study](assets/fail-closed-trading-system-case-study.pdf) | [Download v1.0.0](https://github.com/judasxo/fail-closed-trading-system/releases/tag/v1.0.0)
+[Run the demo](https://github.com/judasxo/fail-closed-trading-system#try-the-synthetic-demo) | [Read the architecture](https://github.com/judasxo/fail-closed-trading-system/blob/main/docs/ARCHITECTURE.md) | [One-page case study](CASE_STUDY.md) | [Download v1.0.0](https://github.com/judasxo/fail-closed-trading-system/releases/tag/v1.0.0)
 
 ## What I care about
 

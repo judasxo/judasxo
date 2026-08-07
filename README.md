@@ -9,7 +9,7 @@ I build auditable quantitative research and fail-closed automation: systems desi
 A credential-free Python case study in research discipline and operational safety.
 
 - Rejected two pre-registered hypotheses instead of tuning them into wins.
-- Rejected a price dataset despite 99.94% cent-level agreement because three rows violated frozen admission rules.
+- Rejected a price dataset despite 99.94% cent-level agreement because two rows had impossible OHLC geometry and one close breached a frozen discrepancy limit.
 - Completed bounded equity and crypto paper canaries with intent-before-mutation and no-retry-after-ambiguity controls.
 - Preserved a failed 24-hour reliability run, corrected the instrumentation, and passed nine unchanged thresholds on the next run.
 - Published an offline five-scenario demo, 15 regression tests, a deliberate control-bypass test, and a bidirectional SHA-256 manifest.

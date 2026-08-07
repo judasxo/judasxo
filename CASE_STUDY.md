@@ -9,7 +9,7 @@
 | Evidence | Result |
 |---|---:|
 | Pre-registered hypotheses rejected | 2 |
-| Data defects sufficient to block admission | 3 |
+| Frozen-gate breaches | 3 |
 | Unchanged reliability thresholds passed | 9/9 |
 | Offline public regression tests | 15 |
 
